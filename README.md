@@ -1,5 +1,5 @@
 # BlackJack
-Konsolenspiel: BlackJack mit dem Computer  
+Konsolenspiel: BlackJack   
 
 Karten vergessen? Kein Problem. Spiel runterladen und der Abend ist gerettet...  
 
